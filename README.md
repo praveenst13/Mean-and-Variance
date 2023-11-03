@@ -77,3 +77,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 ![image](https://github.com/Ragu-123/Mean-and-Variance/assets/113915622/e384d333-0897-433e-adc2-1d64dfb4a1e7)
+
+# Results :
+The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
+
